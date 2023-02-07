@@ -1,1 +1,1 @@
-FROM openjdk:21-windowsservercore-ltsc2022
+FROM openjdk:21-windowsservercore-ltsc2022@sha256:6e2e3c51a6c9e07c19173b1cc0bae4340a616f0ad0d58ac559594ff273ac8cea
