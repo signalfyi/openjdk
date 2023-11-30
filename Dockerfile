@@ -1,1 +1,1 @@
-FROM openjdk:21-windowsservercore-ltsc2022
+FROM openjdk:amazoncorretto
