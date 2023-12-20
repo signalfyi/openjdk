@@ -1,1 +1,1 @@
-FROM amazoncorretto:8u392-al2023-jre
+FROM amazoncorretto:8u392-al2023-jre@sha256:431af0eb1c309091bc18ae6da196c36d0614b27d48a12f18619ecbee50f69bf1
