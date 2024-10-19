@@ -1,0 +1,9 @@
+## Dockerfile
+
+### Docker Image: amazoncorretto:8u392-al2023-jre
+| Severity | Count |
+|----------|-------|
+| medium | 23 |
+| high | 34 |
+| low | 4 |
+| critical | 2 |
